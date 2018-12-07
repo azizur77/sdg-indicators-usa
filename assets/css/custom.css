@@ -24,7 +24,7 @@ body.contrast-high #disclaimer .alert {
   width: 100%; }
 
 #disclaimer {
-  background: none; }
+  background: #eaeaea; }
   @media only screen and (max-width: 680px) {
     #disclaimer {
       font-size: 0.75em; } }
